@@ -1,7 +1,7 @@
 # Abstract-Resolver
 # High-Performance Structural Parser Engine
 
-A zero-dependency, platform-agnostic structural syntax repair radar engineered entirely from first principles in Rust. This utility completely bypasses heavy, memory-intensive Abstract Syntax Tree (AST) mutations to deliver sub-microsecond coordinate analysis and automated block boundary healing within a standalone binary footprint of **under 138 KB**.
+A zero-dependency, platform-agnostic structural syntax repair radar engineered entirely from first principles in Rust. This utility completely bypasses heavy, memory-intensive Abstract Syntax Tree (AST) mutations to deliver sub-microsecond coordinate analysis and automated block boundary healing within a standalone binary footprint of **under 150 KB**.
 
 Operating as a pure structural coordinate radar, the engine flattens files into a raw, one-dimensional spatial array of bytes. By mapping layout scopes via rigid stack logic and coordinate arithmetic rather than linguistic heuristics, the engine provides a **100% mathematical accuracy rating** for structural perimeter validation.
 
