@@ -1,3 +1,10 @@
+// ==================================================================================
+// ABSTRACT RESOLVER
+// Copyright (c) 2026 Marcus Pratt / Fulminix Systems. All Rights Reserved.
+// Licensed under the GNU Affero General Public License v3 (AGPLv3).
+// For commercial inquiries, contact the author directly.
+// ==================================================================================
+// healer.rs
 use crate::tracker::{BlockStatus, StructuralBlock};
 
 /// The explicit type of repair execution required to reconcile the syntax tree.
