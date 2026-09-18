@@ -70,4 +70,5 @@ The project is structured as a tight, modular workspace with an absolute separat
 
 Copyright (c) 2026 Marcus Pratt / Fulminix Systems. All Rights Reserved.
 
-This project is dual-licensed under the terms of the **GNU Affero General Public License v3 (AGPLv3)**. Independent developers are granted full rights to audit, use, and run the utility locally for civilian STEM democratization. Corporate entities are legally blocked from embedding this engine into closed cloud infrastructures or proprietary devtool suites unless they release their entire wrapped system source code back to the public under the exact same open terms. Commercial licensing agreements must be established directly through the author.
+This project is open-source and licensed under the terms of the **GNU Affero General Public License v3 (AGPLv3)**. Independent developers are free to audit, modify, and distribute the code locally for personal, educational, or open research purposes. For commercial licensing inquiries or integrations within proprietary corporate environments, please contact the author directly.
+
